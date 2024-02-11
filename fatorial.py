@@ -1,4 +1,4 @@
-x = int(input("escola um número: "))
+x = int(input("escolha um número: "))
 def fatorial(x):
     if x == 1:
         return 1
